@@ -1,0 +1,10 @@
+torch==2.5.1
+torchvision==0.20.1
+transformers==4.48.3
+albumentations==2.0.4
+opencv-python==4.11.0.86
+numpy==1.26.4
+matplotlib==3.10.0
+tensorboard==2.18.0
+PyYAML==6.0.2
+tqdm==4.67.1
